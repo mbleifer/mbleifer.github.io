@@ -1525,3 +1525,7 @@
 		body.is-loading-0 #footer {
 			opacity: 0;
 		}
+
+.projectPanel {
+	width: 200em;
+}
